@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy **Cristian Joel Vargas Luizaga**</h1>
+<h1 align="center">Hola 👋, soy Cristian Joel Vargas Luizaga</h1>
 <h3 align="center">Desarrollador de Aplicaciones Multiplataforma | Front‑end, Accesibilidad y Buenas Prácticas</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" width="300"/>
