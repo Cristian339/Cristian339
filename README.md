@@ -39,4 +39,3 @@
 
 - Email: crisjoelvl@gmail.com  
 - LinkedIn: [cristian-joel-vargas-luizaga-90b68b1ab](https://linkedin.com/in/cristian-joel-vargas-luizaga-90b68b1ab)  
-- Skype: crisjoelvl@gmail.com
