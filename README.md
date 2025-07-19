@@ -1,135 +1,184 @@
 <h1 align="center">¡Hola 👋, soy Cristian Joel Vargas Luizaga!</h1>
-<h3 align="center">Desarrollador de Aplicaciones Multiplataforma · Frontend, Accesibilidad y Buenas Prácticas</h3>
+<h3 align="center">Desarrollador Full Stack · Web, Mobile & APIs REST</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" width="320"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/cristian-joel-vargas-luizaga-90b68b1ab">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:crisjoelvl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Cristian339">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-- 💡 Estudiante de **DAM** en IES Velázquez e IES Nuestra Señora de los Reyes (Sevilla).
-- ⚡ Apasionado por crear experiencias accesibles, eficientes y con gran atención al detalle.
-- 🔍 Foco en optimización de rendimiento, experiencia de usuario y accesibilidad.
-- 👨‍💼 Experiencia liderando equipos y proyectos con metodologías ágiles (SCRUM).
+Desarrollador Full Stack con formación en DAM y experiencia en desarrollo de aplicaciones web y móviles. Especializado en arquitecturas MVC, APIs REST y metodologías ágiles. Combino sólidas habilidades técnicas con capacidad de coordinación de equipos, siempre enfocado en entregar soluciones de calidad y mantenerme actualizado con las últimas tecnologías.
+
+- 🚀 **Actualmente:** Desarrollador Full Stack en Quantum Protech S.L.
+- 💡 **Formación:** DAM en IES Velázquez e IES Nuestra Señora de los Reyes (Sevilla)
+- ⚡ **Especializado en:** Desarrollo web responsivo, APIs REST, arquitecturas escalables
+- 🔍 **Enfoque:** Código limpio, accesibilidad web, experiencia de usuario
+- 👨‍💼 **Experiencia:** Coordinación de equipos y metodologías ágiles (SCRUM)
+
+---
+
+## 👨‍💼 Experiencia Profesional
+
+### Quantum Protech S.L. · Desarrollador Full Stack
+**Marzo 2025 – Actualidad**
+
+- 🔄 Coordino un equipo de desarrollo aplicando metodología SCRUM, organizando sprints y facilitando la comunicación entre equipos
+- 🎨 Desarrollo interfaces web responsivas y accesibles con HTML5, CSS3, JavaScript y frameworks modernos (Angular, React)
+- 🔧 Diseño y desarrollo APIs REST con Spring Boot, documentadas con Swagger, incluyendo tests unitarios con JUnit 5 y Mockito
+- 📊 Implemento pruebas de accesibilidad con Axe DevTools y Lighthouse
+- 🐛 Resuelvo bloqueos técnicos y propongo mejoras para optimizar la calidad del producto
+- 📝 Gestiono control de versiones con Git/Bitbucket aplicando Git Flow
+- 🚀 Trabajo con Angular (TypeScript, SCSS) con componentes standalone y actualmente React + Spring Boot
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### <img src="https://img.icons8.com/ios-filled/50/1976D2/money-bag.png" width="20"/> Cosplit
-> Aplicación para dividir gastos tipo Tricount.
-- **Frontend:** Angular, Ionic, SCSS
-- **Backend:** Java (Spring Boot, Lombok)
-- **Funcionalidades:** Grupos, saldos, QR para unirse, APIs REST, arquitectura modular
+### <img src="https://img.icons8.com/ios-filled/50/1976D2/money-bag.png" width="20"/> **Cosplit** - División de Gastos Grupales
+> Aplicación móvil para división de gastos estilo Tricount
 
-### <img src="https://img.icons8.com/ios-filled/50/000000/shopping-bag.png" width="20"/> Vistelica
-> E-commerce de moda con pagos integrados.
-- **Frontend:** Next.js, React, Material UI, Cloudinary
-- **Backend:** Node.js, Express, TypeScript, TypeORM
-- **Funcionalidades:** Búsqueda avanzada, filtros, comentarios, gestión de productos y usuarios, interfaz responsiva
+- **Tech Stack:** Angular, Ionic, SCSS | Spring Boot, Lombok
+- **Características:** Gestión de grupos y saldos, códigos QR para acceso, arquitectura RESTful
+- **Mi rol:** Desarrollo full stack, implementación de APIs REST, diseño de UI/UX
 
-### <img src="https://img.icons8.com/ios-filled/50/38b6ff/calendar.png" width="20"/> Meetify
-> Red social de eventos con mensajería en tiempo real.
-- **Frontend:** Angular, Ionic, SCSS, WebSocket
-- **Backend:** Java (Spring Boot, WebSocket, Lombok)
-- **Funcionalidades:** Eventos, sistema de amigos, chat en tiempo real, notificaciones
+### <img src="https://img.icons8.com/ios-filled/50/000000/shopping-bag.png" width="20"/> **Vistelica** - E-commerce Completo
+> E-commerce completo de moda con todas las funcionalidades de una tienda online profesional
+
+- **Tech Stack:** Next.js, React, Material UI | Node.js, Express, TypeScript
+- **Características:** Carrito, pasarela de pagos, valoraciones/comentarios, ofertas, stock limitado, simulación de envío
+- **Mi rol:** Desarrollo frontend, integración de pagos, optimización de rendimiento
+
+### <img src="https://img.icons8.com/ios-filled/50/38b6ff/calendar.png" width="20"/> **Meetify** - Red Social de Eventos
+> Red social para organización y participación en eventos
+
+- **Tech Stack:** Angular, Ionic | Spring Boot con WebSocket
+- **Características:** Chat en tiempo real, sistema de amigos, notificaciones push
+- **Mi rol:** Implementación de WebSocket, desarrollo de UI responsiva, arquitectura del backend
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Stack Tecnológico
 
-**Lenguajes**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks/Librerías**  
-![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
+
+### **Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **Mobile & UI**
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-1a1a1a?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-**Bases de datos**  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### **Bases de Datos**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Herramientas & Entornos**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-0096D6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+### **Herramientas & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-EC4A3F?style=for-the-badge&logo=composer&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### **Testing & Metodologías**
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
-## 👨‍💼 Experiencia Laboral
+## 🎓 Educación
 
-**Quantum Solutions · Líder de Proyecto Front-End (Mar 2025 – Jun 2025)**
-- Liderazgo de equipo aplicando SCRUM y control de versiones con Git Flow.
-- Maquetación de interfaces en Figma; coherencia entre diseño y desarrollo.
-- Optimización de rendimiento y accesibilidad web (HTML5, CSS3, JS).
-- Análisis técnico, documentación y propuestas de mejora continua.
+**Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+📍 IES Velázquez & IES Nuestra Señora de los Reyes, Sevilla  
+📅 Septiembre 2023 – Junio 2025
+
+---
+## 💡 Habilidades
+
+### **Técnicas**
+- **Frontend:** React, Angular, Vue.js, Next.js, Ionic, HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Backend:** Spring Boot, Node.js, Express, APIs REST
+- **Bases de Datos:** MySQL, PostgreSQL, MongoDB, SQL Server
+- **Testing:** JUnit 5, Mockito, Axe DevTools, Lighthouse
+- **DevOps:** Git/Git Flow, Docker, CI/CD básico
+- **Otros:** Kotlin, Astro, Quasar, Composer
+
+### **Blandas**
+- 💬 Comunicación efectiva y trabajo colaborativo en equipos multidisciplinarios
+- 🚀 Proactividad y capacidad de adaptación rápida a nuevas tecnologías
+- 🎯 Orientación a resultados con atención al detalle en la calidad del código
+- 👥 Experiencia en liderazgo técnico y resolución proactiva de problemas
+
+### **Idiomas**
+- 🇪🇸 **Español:** Nativo
+- 🇬🇧 **Inglés:** A2-B1 (en proceso de mejora)
 
 ---
 
-## 📝 Perfil Profesional
+## 📈 Estadísticas de GitHub
 
-Desarrollador de aplicaciones multiplataforma con formación en DAM y experiencia en proyectos reales y académicos.  
-Dominio de arquitecturas MVC, APIs REST y buenas prácticas de código.  
-Proactivo, autodidacta, orientado a resultados y a la mejora continua.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cristian339&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
 
----
-
-## 🧑‍🎓 Educación
-
-**Grado Superior DAM (Desarrollo de Aplicaciones Multiplataforma)**  
-IES Velázquez, Sevilla · IES Nuestra Señora de los Reyes, Sevilla  
-Sept 2023 – Jun 2025
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristian339&theme=github-dark-blue" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🤝 Habilidades
+## 📫 Conecta conmigo
 
-- **Técnicas:** Java, Kotlin, JavaScript (ES6+), HTML5, CSS3, React.js, Angular, Vue.js, Quasar, Ionic, Bootstrap, Spring Boot, Astro, Tailwind, MySQL, PostgreSQL, SQL Server, MongoDB, JUnit 5, Mockito
-- **Herramientas:** VS Code, IntelliJ, NetBeans, Git (Git Flow), Docker, Composer, Figma
-- **Metodologías:** SCRUM, testing automatizado
-- **Blandas:** Comunicación clara, trabajo en equipo, proactividad, adaptabilidad, enfoque en resultados
-- **Idiomas:** Español (nativo), Inglés (A2–B1)
-
----
-
-## 📫 Contacto
-
-- Email: crisjoelvl@gmail.com  
-- [LinkedIn](https://linkedin.com/in/cristian-joel-vargas-luizaga-90b68b1ab)  
-- [GitHub](https://github.com/Cristian339)  
-<!-- - [Portafolio](#) -->  
-<!-- - Teléfono: +34 624091440 (opcional, no recomendado en README público) -->
+<p align="center">
+  <a href="mailto:crisjoelvl@gmail.com">📧 crisjoelvl@gmail.com</a> •
+  <a href="https://linkedin.com/in/cristian-joel-vargas-luizaga-90b68b1ab">💼 LinkedIn</a> •
+  <a href="https://github.com/Cristian339">🐙 GitHub</a>
+</p>
 
 ---
 
-## 📈 Estadísticas
-
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianjoelvl&show_icons=true&theme=github_dark)
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cristian339&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
 
 <details>
-  <summary>Más sobre mí...</summary>
+  <summary>✨ Más sobre mí...</summary>
+  <br>
   <ul>
-    <li>🤓 Siempre aprendiendo nuevas tecnologías y buenas prácticas.</li>
+    <li>🤓 Siempre aprendiendo nuevas tecnologías y buenas prácticas</li>
+    <li>💻 Actualmente profundizando en React y arquitecturas de microservicios</li>
+    <li>🎮 En mi tiempo libre disfruto de los videojuegos y la tecnología</li>
     <li>💬 ¡No dudes en contactarme para colaborar o intercambiar ideas!</li>
   </ul>
 </details>
